@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>b0d6551e9747d8ee8a7aa94311f98192a658d0fa.ico</ApplicationIcon>
+    <ApplicationIcon>e53-1024.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,7 +53,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="b0d6551e9747d8ee8a7aa94311f98192a658d0fa.ico" />
+    <Content Include="e53-1024.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
